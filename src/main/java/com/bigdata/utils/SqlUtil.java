@@ -1,7 +1,7 @@
 package com.bigdata.utils;
 
 
-import com.sun.xml.internal.ws.util.UtilException;
+import com.bigdata.exception.UtilException;
 
 /**
  * sql操作工具类
